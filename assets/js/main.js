@@ -303,12 +303,7 @@
   function scrollUp() {
     $(".ak-scrollup").on("click", function (e) {
       e.preventDefault();
-      $("html,body").animate(
-        {
-          scrollTop: 0,
-        },
-        0
-      );
+      window.open("https://wa.me/971501134584", '_blank');
     });
   }
   // For Scroll Up
