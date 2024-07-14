@@ -518,9 +518,7 @@ kbd {
   4. Spacing
 ----------------------------------------------------------------*/
 @media screen and (min-width: 992px) {
-  /* .pricing-table{
-    min-width: 600px;
-  } */
+ 
   .ak-height-0 {
     height: 0px;
   }
@@ -655,9 +653,7 @@ kbd {
   }
 }
 @media screen and (max-width: 991px) {
-  .pricing-table{
-    min-width: 500px;
-  }
+
   .ak-height-lg-0 {
     height: 0px;
   }
