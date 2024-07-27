@@ -1,13 +1,11 @@
 
 <?php
-$to = 'mdakash.storerepublic@gmail.com';
+$to = 'maksoodm01@gmail.com';
 $headers = 'From: "'.$email.'"';
 
 // All form values
 $name = $_POST['name'];
-$email = $_POST['email'];
-$subject = $_POST['subject'];
-$topic = $_POST['topic'];
+$email = $_POST['phone'];
 $msg = $_POST['msg'];
 
 // Construct email body
